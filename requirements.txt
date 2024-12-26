@@ -1,0 +1,4 @@
+flask
+coinbase
+cdp-sdk
+open-interpreter
